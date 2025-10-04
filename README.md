@@ -7,6 +7,7 @@
 ## Installing Games
 
 - Use DBI to install games: launch DBI from homebrew menu -> run MTP responder -> copy downloaded game files into SD Card Install or NAND Install
+- NAND games run on the Switch's flash memory so will be a tiny bit faster than games on SD card
 - Download game files from nswtl.info telegram
 
 ## AutoRCM
