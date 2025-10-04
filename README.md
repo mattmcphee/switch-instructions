@@ -50,7 +50,7 @@
 - The firmware will be downloaded automatically from <https://github.com/THZoria/NX_Firmware>
 - After download you will be prompted to launch Daybreak -> press yes (Daybreak can be launched from the homebrew menu)
 - Launch Daybreak -> find the downloaded firmware -> press Install -> press Reboot
-- The Switch may reboot a couple of times but should end up back in custom firware -> we're done!
+- The Switch may reboot a couple of times but should end up back in custom firmware -> we're done!
 
 ## Updating Switch Firmware on Stock Firmware
 
