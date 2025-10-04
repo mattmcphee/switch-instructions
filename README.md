@@ -62,3 +62,12 @@
 - Once booted into full stock firmware -> connect to internet -> update the firmware via Nintendo's System Update in settings
 - We can now update our legit games via Nintendo and play online on Nintendo servers etc.
 - Get back into Custom Firmware by following the steps in the section above
+
+## Linking Nintendo Account
+
+- Some games require the account you're using to be linked to a Nintendo account
+- Linkalho lets you link the account to a fake Nintendo account (no actual connection to Nintendo servers is involved)
+- The problem is, if you have multiple accounts linked and you try to play a two player game, the game will crash
+- You should only have the 'main' user account linked to a Nintendo account, the others shouldn't be linked (if you want to play two player games with those accounts specifically)
+- You can create multiple accounts and name them like 'User1' and 'User1Multiplayer'
+- The 'User1' account can be linked for single player games and the 'User1Multiplayer' account is unlinked and used for two player+ games
