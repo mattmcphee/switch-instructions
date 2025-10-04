@@ -25,6 +25,8 @@
 
 - DBI can be used to access the SD card but it's not as robust as Hekate - Hekate runs outside the firmware (pre-boot environment)
 - Plug switch into PC -> reboot the switch -> press vol down on splash page to boot into Hekate -> Tools -> USB Tools -> SD Card
+- You shouldn't really need to mess with the files on the SD card unless you know what you're doing or modding etc.
+- The main stuff can be done all from inside the Switch or from Hekate
 
 ## Booting into Stock Official Firmware from Custom Firmware
 
