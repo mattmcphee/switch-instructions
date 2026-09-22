@@ -43,7 +43,7 @@
 - Remove the right joycon controller from the switch.
 - Insert the rcmjig into the slot on the switch where the joycon slots in then slide the rcmjig all the way down.
 - Hold Volume Up+ then press the power button for 2 seconds
-- The switch should be in Recovery Mode at the point
+- The switch should be in Recovery Mode at this point in time
 - Plug the switch into a PC running TegraRCM and Tegra should say RCM OK
 
 ## Switch Firmware
