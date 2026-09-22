@@ -34,7 +34,7 @@
 
 ## Booting into Custom Firmware from Stock Official Firmware
 
-- Reboot the switch -> the Switch will be in Recovery Mode (black screen nothing happening)
+- Power off the switch -> the Switch will be in Recovery Mode (black screen nothing happening)
 - Open TegraRCMGUI on your PC -> connect Switch to PC -> should say RCM OK -> inject the latest Hekate.bin
 - The splash screen should appear -> press vol down on splash screen -> Launch -> Atmosphere
 
