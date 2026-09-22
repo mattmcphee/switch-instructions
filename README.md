@@ -38,6 +38,14 @@
 - Open TegraRCMGUI on your PC -> connect Switch to PC -> should say RCM OK -> inject the latest Hekate.bin
 - The splash screen should appear -> press vol down on splash screen -> Launch -> Atmosphere
 
+## Booting into Custom Firmware using a physical rcmjig
+
+- Remove the right joycon controller from the switch.
+- Insert the rcmjig into the slot on the switch where the joycon slots in then slide the rcmjig all the way down.
+- Hold Volume Up+ then press the power button for 2 seconds
+- The switch should be in Recovery Mode at the point
+- Plug the switch into a PC running TegraRCM and Tegra should say RCM OK
+
 ## Switch Firmware
 
 - Some of the latest games or game updates require the latest Switch firmware to run
